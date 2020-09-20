@@ -1,5 +1,8 @@
 ### Hi I'm a Jr.Software Engineer, and welcome to my Github's workspace 👋
-[![My Stats on Github 🛑](https://github-readme-stats.vercel.app/api?username=MiguelYann)](https://github.com/MiguelYann/github-readme-stats)
+
+![Miguel's stats](https://github-readme-stats.vercel.app/api?username=MiguelYann&theme=prussian&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelYann)](https://github.com/MiguelYann/github-readme-stats)
+
 
 
 <!--
