@@ -10,7 +10,7 @@
 - Like to teach and share knowledge like if you have 5 years old 😆
 - Music 🎵 addict and fan of BasketBall 🏀
 
-![Miguel's stats](https://github-readme-stats.vercel.app/api?username=MiguelYann&theme=vue-dark&show_icons=true)
+![Miguel's stats](https://github-readme-stats.vercel.app/api?username=MiguelYann&theme=ayu-mirage&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelYann)](https://github.com/MiguelYann/github-readme-stats)
 
 
