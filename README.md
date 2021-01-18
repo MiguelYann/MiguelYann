@@ -1,7 +1,7 @@
 ### Hi I'm a Jr.Software Engineer, and welcome to my Github's workspace 👋
 
 #### Experience 👨🏾‍💻
-- Currently, ***Software Engineer*** at [LCL Bank and Assurances](https://www.lcl.fr/).
+- Currently, ***Software Engineer*** at [LCL Bank and Insurance](https://www.lcl.fr/).
 - Previously, ***Software Engineer Consultant*** at [Kaibee](https://kaibee.fr/).
 - Previously, ***Assistant Java Software Engineer*** at [e.Voyageur SNCF](https://www.sncf.com/fr/groupe/newsroom/e-voyageurs-sncf)
 - First professional experience, in Internship as ***Front/Mobile Developer*** at [SMART TEEM](https://www.smartteem.com/)
