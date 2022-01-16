@@ -2,7 +2,7 @@
 
 #### Experience 👨🏾‍💻
 - Currently, ***Software Engineer*** at [LCL Bank and Insurance](https://www.lcl.fr/).
-- Previously, ***oftware Engineering Consultant*** at [Kaibee](https://kaibee.fr/).
+- Previously, ***Software Engineering Consultant*** at [Kaibee](https://kaibee.fr/).
 - Previously, ***Java Developer*** at [e.Voyageur SNCF](https://www.sncf.com/fr/groupe/newsroom/e-voyageurs-sncf)
 - First professional experience, in Internship as ***Mobile Developer*** at [SMART TEEM](https://www.smartteem.com/)
 
